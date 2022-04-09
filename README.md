@@ -1,3 +1,5 @@
 # DPS-Challenge
 
-This Project contains the workflow of the task intended for DPS Challenge
+This Project contains the workflow of the task intended for DPS Challenge.
+
+Application folder contains the files used for sending json data to an app deployed on cloud and getting prediction.
